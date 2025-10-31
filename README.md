@@ -7,7 +7,7 @@
 
 <img align="right" width=500px height=500px alt="side_sticker" src="https://www.lihaoyi.com/post/deep-dive-mill/Tesseract.gif" />
 
-- :school: I am a `Student` at [CUAltos/Centro Universitario De los Altos](https://www.cualtos.udg.mx/) 
+- :school: I am a `Student` at `Centro Universitario De los Altos`  [CUAltos](https://www.cualtos.udg.mx/) 
 - :technologist: **Currently learning** `Structured programming` **&** `Object-Oriented Programming`
 - :email: Feel free to **reach me out:**   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leo.figueroaj@gmail.com)
  - 🦉🟢English level: B2
