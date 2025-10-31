@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30x></picture> About me
 
-<img align="right" width=500px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=400px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - :school: I am a `Student` at [CUAltos/Centro Universitario De los Altos](https://www.cualtos.udg.mx/) 
 - :technologist: **Currently learning** `Structured programming` **&** `Object-Oriented Programming`
@@ -24,7 +24,7 @@
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
-<img src="https://iconic-api.onrender.com/dark/git" width="40px" /> <img src="https://iconic-api.onrender.com/dark/github" width="40px" /> <img src="https://iconic-api.onrender.com/dark/jupyter" width="40px" /> <img src="https://iconic-api.onrender.com/dark/figma" width="40px" /> <img src="https://iconic-api.onrender.com/dark/discord" width="40px" /> <img src="https://iconic-api.onrender.com/dark/adobe-express" width="40px" /> <img src="https://iconic-api.onrender.com/dark/azure" width="40px" /> <img src="https://iconic-api.onrender.com/dark/canva" width="40px" /> <img src="https://iconic-api.onrender.com/dark/chatgpt" width="40px" /> <img src="https://iconic-api.onrender.com/dark/chrome" width="40px" /> <img src="https://iconic-api.onrender.com/dark/claude" width="40px" /> <img src="https://iconic-api.onrender.com/dark/copilot" width="40px" /> <img src="https://iconic-api.onrender.com/dark/google-colab" width="40px" /> <img src="https://iconic-api.onrender.com/dark/vscode" width="40px" /> <img src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" width="35px" /> <img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" width="40px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="40px" /> <img src="https://iconic-api.onrender.com/dark/github" width="40px" /> <img src="https://iconic-api.onrender.com/dark/jupyter" width="40px" /> <img src="https://iconic-api.onrender.com/dark/figma" width="40px" /> <img src="https://iconic-api.onrender.com/dark/discord" width="40px" /> <img src="https://iconic-api.onrender.com/dark/adobe-express" width="40px" />  <br> <img src="https://iconic-api.onrender.com/dark/azure" width="40px" /> <img src="https://iconic-api.onrender.com/dark/canva" width="40px" /> <img src="https://iconic-api.onrender.com/dark/chatgpt" width="40px" /> <img src="https://iconic-api.onrender.com/dark/chrome" width="40px" /> <img src="https://iconic-api.onrender.com/dark/claude" width="40px" /> <img src="https://iconic-api.onrender.com/dark/copilot" width="40px" /> <br> <img src="https://iconic-api.onrender.com/dark/google-colab" width="40px" /> <img src="https://iconic-api.onrender.com/dark/vscode" width="40px" /> <img src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" width="35px" /> <img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" width="40px" />
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
