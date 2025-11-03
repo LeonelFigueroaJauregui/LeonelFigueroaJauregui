@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonelFigueroaJauregui/LeonelFigueroaJauregui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonelFigueroaJauregui/LeonelFigueroaJauregui/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/LeonelFigueroaJauregui/LeonelFigueroaJauregui/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ## Hi there 👋 I'm Leonel Figueroa!
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
@@ -41,4 +48,9 @@ Thank you for reading!
 <a href="https://www.instagram.com/leonelfj_/">
   <img align="left" alt="Leo Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg/1024px-CIS-A2K_Instagram_Icon_%28Black%29.svg.png" />
 </a>
+
+
+## 🟡 Pac-Man Contribution Graph
+
+
 
