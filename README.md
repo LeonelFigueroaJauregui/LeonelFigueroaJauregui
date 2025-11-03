@@ -50,7 +50,7 @@ Thank you for reading!
 </a>
 
 
-## 🟡 Pac-Man Contribution Graph
+
 
 
 
