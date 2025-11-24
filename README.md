@@ -16,7 +16,7 @@
 
 - :school: I am a `Student` at `Centro Universitario De los Altos`  [CUAltos](https://www.cualtos.udg.mx/) 
 - :technologist: **Currently learning** `Structured programming` **&** `Object-Oriented Programming`
-- :email: Feel free to **reach me out:**   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.figueroaj@gmail.com)
+- :email: Feel free to **reach me out:**   [![Gmail](https://img.shields.io/badge/Email-Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=leo.figueroaj@gmail.com)
 
  - 🦉🟢English level: B1
 - :nerd_face: Always believe `"Error capa 8"`
