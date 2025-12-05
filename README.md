@@ -40,6 +40,7 @@
 <hr>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelFigueroaJauregui&layout=compact&theme=dark&border_radius=20&hide_border=false)
+
 --------------------------------------------------------------------------------------------------
 Thank you for reading!
 
