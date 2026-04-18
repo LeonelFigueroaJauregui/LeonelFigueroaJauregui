@@ -48,7 +48,7 @@ Thank you for reading!
   <img align="left" alt="Leo LinkdeIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/3670/3670129.png" />
 </a>
 <a href="https://www.instagram.com/leonelfj_/">
-  <img align="left" alt="Leo Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg/1024px-CIS-A2K_Instagram_Icon_%28Black%29.svg.png" />
+  <img align="left" alt="Leo Instagram" width="32px" src="https://imgs.search.brave.com/9MDMMA-UTNptTPngi_L9zgGi39bj7z-_97NTNCVht4E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMjMv/NzQxLzA2MS9zbWFs/bC9pbnN0YWdyYW0t/bG9nby1pY29uLXNv/Y2lhbC1tZWRpYS1p/Y29uLWZyZWUtcG5n/LnBuZw" />
 </a>
 
 
